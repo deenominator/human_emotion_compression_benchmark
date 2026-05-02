@@ -83,6 +83,3 @@ To obtain the trained baseline model, run `01_baseline_training.ipynb` on Google
 | Google Colab T4 GPU | Training and benchmarking environment |
 | `matplotlib` / `pandas` | Results visualization and export |
 
-## Authors
-Deeksha Kaushal- Experiments, model training, benchmarking, code
-Ankit Sharma- Research Framing, Analysis, Presentation 
