@@ -1,0 +1,14 @@
+{
+  "params": 33448967,
+  "baseline_f1": 0.3064,
+  "baseline_size_mb": 141.9,
+  "baseline_latency_ms": 9.23,
+  "baseline_ram_mb": 0.0,
+  "distilled": {
+    "f1": 0.3009,
+    "size_mb": 127.6,
+    "latency_ms": 3.88,
+    "ram_mb": 0.0,
+    "params": 33448967
+  }
+}
